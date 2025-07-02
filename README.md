@@ -1,3 +1,5 @@
+<img src="./assets/images/icon.png" alt="Task Manager Icon" width="120" height="120" align="left" />
+
 # 📝 Task Manager App
 
 A beautiful and intuitive task management application built with **React Native**, **Expo**, and **Material Design** components.
